@@ -9,6 +9,6 @@ Trovate [qui](https://didatticaonline.unitn.it/dol/course/view.php?id=42095) la 
 ## Esercitazioni
 * Venerdì 3 ottobre (rimandata a Lunedì 6 e Giovedì 9 causa sciopero): [esercizi]()
 * Venerdì 24 ottobre: [esercizi]()
- ...
+* ...
  
 
